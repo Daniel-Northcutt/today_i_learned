@@ -1,0 +1,19 @@
+* 10/01: Refreshed python base level skills going over mainly tuples, strings, dictionary, integer, float, etc.  Few exercises to review the basics of python.
+(also my son is one month old today! I really enjoy being a father)
+
+* 9/30: Mainly a quiz on SQL and intro to python
+
+* 9/29: Exercises on case statements and spent the evening refreshing myself on SQL in preparing for our quiz
+
+* 9/28: Further expansion of temporary tables and intro into case statements
+
+* 9/27: I learned about subquerys in SQL, spent most of the day on exercises.  I understand the importance of subquerys but 
+I found that I was able to get through the problems running Joins and often could get to the answer with less code.  Regardless it was an 
+important lesson to learn.  We also learned about temporary tables which Ryan showed us can be extremely useful in the workplace if you find yourself 
+continually writing the same code.  
+
+* 9/23: Further development of join statements in SQL, spent the day on challenging exercises that were rewarding to complete.  Shout out to Ryan, for helping me grasp a greater understanding.
+
+* 9/22: Composite Keys, Join Statements, Learned a great deal more on grouping statements
+* 9/21: Grouping statements in SQL
+* 9/20: Today I learned about SQL Causes and Limit.  I gained a stronger understanding of using querys.
