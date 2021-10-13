@@ -1,3 +1,7 @@
+*10/11: Worked thru exercises via Matplotlib and strengthened my knowledge through the given material.  Ended the day learning about Numpy, which is a super powerful tool for python.
+
+*10/08: Today I learned about Matplotlib.  It was a dense lecture that I plan on working on through the weekend.
+
 * 10/04: Refresher on python functions primarily focused on control structures.  The lecture was straightforward but the exercises proved to be extremely challenging for me. Working through them with my breakout room and help from the TAs was able to strengthen my code.  Need to just work on it everyday to become a stronger programer.
 
 * 10/01: Refreshed python base level skills going over mainly tuples, strings, dictionary, integer, float, etc.  Few exercises to review the basics of python.
