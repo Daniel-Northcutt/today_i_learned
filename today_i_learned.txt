@@ -1,3 +1,6 @@
+*10/19: Advanced data frames for pandas. Lessons and challenging exercises which took most of the day.  Was able to finish at the last minute and will clean up my code with the review.  Ryan provided great supplemental material for pandas which I also started working through.  Pandas is dense but essential, more problems I work through the better I will get.
+
+
 *10/18: Python Databases! Review of the exercises finished on Friday/Weekend.  Onto more advanced databases which I consider the big accomplishment of the day was learning how to link my SQL database onto my Jupyter and thus using pythonic code to query search through the database.  Also a refresher on .gitignore and the importance of which.  Good lesson to start Monday off
 
 *10/15: Worked through a great deal of pandas exercises, learned some interesting techniques through classmates explaining their code.  Following learned about data frames within pandas.  The lesson felt dense but clicked very well with me.
