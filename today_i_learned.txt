@@ -1,3 +1,6 @@
+*10/21: Exercises and review of seaborn. Useful tool that can make some fantastic plots very quickly.
+With experience I can see myself capable of making some powerful representation of data using this tool.  Ended the day with a review of pandas.  This week has been tiring for me so looking forward to getting some rest following tomorrow.
+
 *10/20: Today we reviewed advanced data frames with pandas followed by an introduction to seaborn. 
 Overall good day that I followed with more supplemental information.  Appreciate the half day, feel like
 I have made good progress the past week but that there is just so much information to maintain.  We will see how the quiz goes tomorrow 
