@@ -1,3 +1,8 @@
+10/24: Few hours to work on pandas during the weekend.  Even though we have finished the lesson I need to keep these skills sharp.  The more exercises the better I will get.
+
+*10/22: Pandas quiz and review followed by introduction to spreadsheets.  Learned a few new functions 
+But most of the lesson I have previously touched at during my employment history.
+
 *10/21: Exercises and review of seaborn. Useful tool that can make some fantastic plots very quickly.
 With experience I can see myself capable of making some powerful representation of data using this tool.  Ended the day with a review of pandas.  This week has been tiring for me so looking forward to getting some rest following tomorrow.
 
