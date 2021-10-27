@@ -1,10 +1,19 @@
+10/26: Further discussion into storytelling focused on the "create" stage (yesterday was "understand").  Learned of some new great tools like Trello 
+and ways to build the foundation for a project which is new to me without already having my target goal in mind with data.  
+Most of the day was exploring data and slogging through spreadsheets, not going to lie that after SQL and pandas, spreadsheets is a chore.
+
+
+10/25: Focus today was on storytelling.  Great lecture that I took heaps of notes on understanding the importance of narrative to display and project our data.  
+Great deal of references and supplemental material through the canva presentation.  Followed with a self-exploration of graph exercise.  Found some amazing resources through the dive.
+
 10/24: Few hours to work on pandas during the weekend.  Even though we have finished the lesson I need to keep these skills sharp.  The more exercises the better I will get.
 
 *10/22: Pandas quiz and review followed by introduction to spreadsheets.  Learned a few new functions 
 But most of the lesson I have previously touched at during my employment history.
 
 *10/21: Exercises and review of seaborn. Useful tool that can make some fantastic plots very quickly.
-With experience I can see myself capable of making some powerful representation of data using this tool.  Ended the day with a review of pandas.  This week has been tiring for me so looking forward to getting some rest following tomorrow.
+With experience I can see myself capable of making some powerful representation of data using this tool.  Ended the day with a review of pandas.  
+This week has been tiring for me so looking forward to getting some rest following tomorrow.
 
 *10/20: Today we reviewed advanced data frames with pandas followed by an introduction to seaborn. 
 Overall good day that I followed with more supplemental information.  Appreciate the half day, feel like
@@ -34,7 +43,8 @@ Which is always ideal for python.
 
 *10/08: Today I learned about Matplotlib.  It was a dense lecture that I plan on working on through the weekend.
 
-* 10/04: Refresher on python functions primarily focused on control structures.  The lecture was straightforward but the exercises proved to be extremely challenging for me. Working through them with my breakout room and help from the TAs was able to strengthen my code.  Need to just work on it everyday to become a stronger programer.
+* 10/04: Refresher on python functions primarily focused on control structures.  The lecture was straightforward but the exercises proved to be extremely challenging for me. 
+Working through them with my breakout room and help from the TAs was able to strengthen my code.  Need to just work on it everyday to become a stronger programer.
 
 * 10/01: Refreshed python base level skills going over mainly tuples, strings, dictionary, integer, float, etc.  Few exercises to review the basics of python.
 (also my son is one month old today! I really enjoy being a father)
