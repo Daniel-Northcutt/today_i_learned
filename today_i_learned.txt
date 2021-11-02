@@ -1,3 +1,8 @@
+11/02: Statistics through pandas.  Lots learned today and lots to still learn.  Review of these
+Lessons will be critical.  Followed by a strong lesson on probability distributions.  Followed along
+Well but as always I assume that the exercises ahead will require a personal deep dive beyond the
+ material to grasp the concepts.
+
 11/01: Great conversation regarding stress and support with our bootcamp.  Appreciate the open communication and strong feedback from Ryan.  Great feedback from our presentations and can only improve with each assignment.  Ended the day with a great stats lesson, excited to practice with the code from our lesson.
 
 10/26: Further discussion into storytelling focused on the "create" stage (yesterday was "understand").  Learned of some new great tools like Trello 
