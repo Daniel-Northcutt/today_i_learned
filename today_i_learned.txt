@@ -1,3 +1,8 @@
+11/03: Always appreciate a short day to catch up on life.  Today we worked on probability 
+distributions.  Not going to lie in that I greatly struggled with these exercises.  Looking forward
+to time this weekend to dive deeper into stats, it is a very dense subject that everyone states is 
+vital to data science.
+
 11/02: Statistics through pandas.  Lots learned today and lots to still learn.  Review of these
 Lessons will be critical.  Followed by a strong lesson on probability distributions.  Followed along
 Well but as always I assume that the exercises ahead will require a personal deep dive beyond the
