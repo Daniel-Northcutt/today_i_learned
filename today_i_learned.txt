@@ -1,3 +1,9 @@
+11/05: Great lesson on correlation and Pearson's correlation coefficient, concepts clicked but
+had some struggle with the coding exercise with getting everything to fit in. No lie, stats is dense
+but super important, need to keep things fresh and do additional study time the next few days
+
+11:04: 
+
 11/03: Always appreciate a short day to catch up on life.  Today we worked on probability 
 distributions.  Not going to lie in that I greatly struggled with these exercises.  Looking forward
 to time this weekend to dive deeper into stats, it is a very dense subject that everyone states is 
