@@ -1,3 +1,6 @@
+11/08: Chi squared and hypothesis testing lessons. Few exercises closed out the day.  Focus is to 
+just keep working on statistics for the test tomorrow.  
+
 11/05: Great lesson on correlation and Pearson's correlation coefficient, concepts clicked but
 had some struggle with the coding exercise with getting everything to fit in. No lie, stats is dense
 but super important, need to keep things fresh and do additional study time the next few days
