@@ -1,3 +1,7 @@
+11/12: Great lesson on exploratory data analysis primarily using the titanic dataset.  Bringing a lot
+of concepts together.  Though the datasets aren't my favorite, I am excited to practice the lessons 
+into my code to make new discoveries.
+
 11/11: Day off and just took care of some code review
 
 11/10: Great lecture on data preparation within our classification module.  Learned a few new neat 
