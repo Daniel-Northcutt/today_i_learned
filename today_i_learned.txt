@@ -1,3 +1,9 @@
+11/11: Day off and just took care of some code review
+
+11/10: Great lecture on data preparation within our classification module.  Learned a few new neat 
+python code and mainly defining functions and using across multiple pages.  It is awesome to see so
+much starting to come together with our previous lessons.
+
 11/09: Stats quiz and review.  Good section through the course, stats was dense but the concepts 
 started to really come together.  Followed with the beginning of classification.  Lots of great 
 material provided and ended the day with exercises with uploading different formats of data.
