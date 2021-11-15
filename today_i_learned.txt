@@ -1,3 +1,8 @@
+11/13: Great lecture on exploratory data analysis.  Great run through the Titanic dataset.  Moving
+forward I want to need to get strong at quickly developing a MVP and then edit through my data and 
+code as time permits.  I felt a tad behind this week with some errors I was facing and was able to 
+work through them. 
+
 11/12: Great lesson on exploratory data analysis primarily using the titanic dataset.  Bringing a lot
 of concepts together.  Though the datasets aren't my favorite, I am excited to practice the lessons 
 into my code to make new discoveries.
