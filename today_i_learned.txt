@@ -1,3 +1,7 @@
+11/15: Further exploration of exercises.  Learned new code and data classification but overall 
+struggled with the exercises.  Always chance to improve with practice.  We started lesson on tidy 
+data which resonated well.  I am optimistic and determined to get a better grasp of these lessons.
+
 11/13: Great lecture on exploratory data analysis.  Great run through the Titanic dataset.  Moving
 forward I want to need to get strong at quickly developing a MVP and then edit through my data and 
 code as time permits.  I felt a tad behind this week with some errors I was facing and was able to 
