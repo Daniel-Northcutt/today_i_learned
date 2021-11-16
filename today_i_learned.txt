@@ -1,3 +1,7 @@
+11/16: Finished our lesson on tidy data followed by exercises.  Last half of the day spent on 
+classification evaluation.  Not all clicked but lots of good information provided and hopefully the 
+exercises ahead can help reinforce the material.
+
 11/15: Further exploration of exercises.  Learned new code and data classification but overall 
 struggled with the exercises.  Always chance to improve with practice.  We started lesson on tidy 
 data which resonated well.  I am optimistic and determined to get a better grasp of these lessons.
