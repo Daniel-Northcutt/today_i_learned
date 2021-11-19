@@ -1,3 +1,7 @@
+11/19: KNN and logistic regression lessons and exercises.  KNN was easy to grasp but had difficulty 
+with LR as I don't have a strong math background and little exposure to regression.  Power through 
+the code with little setbacks and going to focus energy on previous exercises this weekend 
+
 11/18: Caught up on the recording of the Decision Tree lesson followed by a lesson and exercises for 
 Random Forest.  Having issues with some of functions and going over prepare.py for a stronger toolkit
 for our exercises.  Still a tad behind where I would like to be but determined to catch up! 
