@@ -1,3 +1,7 @@
+11/18: Caught up on the recording of the Decision Tree lesson followed by a lesson and exercises for 
+Random Forest.  Having issues with some of functions and going over prepare.py for a stronger toolkit
+for our exercises.  Still a tad behind where I would like to be but determined to catch up! 
+
 11/17: Was present but unable to participate in class due to needing to watch my kid. Realize that 
 missing just one day (half day) over how behind I now feel.  Goal is to be fully caught up come Friday.
 
