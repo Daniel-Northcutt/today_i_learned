@@ -1,3 +1,7 @@
+11/21: Review of logistic regression followed by introduction of telco_churn project. Really ties 
+together a lot of the previous exercises.  Feel very motivated to get my MVP done quickly this week
+and to have the bulk of the project done before the Thanksgiving break
+
 11/19: KNN and logistic regression lessons and exercises.  KNN was easy to grasp but had difficulty 
 with LR as I don't have a strong math background and little exposure to regression.  Power through 
 the code with little setbacks and going to focus energy on previous exercises this weekend 
