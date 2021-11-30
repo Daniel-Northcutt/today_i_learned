@@ -1,4 +1,12 @@
-11/21: Review of logistic regression followed by introduction of telco_churn project. Really ties 
+11/30: Following quiz started lecture on regression, got an overview followed by a solid lecture on 
+wrangling data, picked up on a few new code tricks and great refresher on data prep.
+
+11/29: First machine learning presentation day.  Felt I did alright but between the group feedback 
+and my peers, I learned a lot and took good notes to have a stronger presentation in the future. Glad
+to have kept my presentation short and precise as many people went way too long.  I do need to better
+visually and represent my data better.  Can only get better with each presentation, right!
+
+11/22: Review of logistic regression followed by introduction of telco_churn project. Really ties 
 together a lot of the previous exercises.  Feel very motivated to get my MVP done quickly this week
 and to have the bulk of the project done before the Thanksgiving break
 
