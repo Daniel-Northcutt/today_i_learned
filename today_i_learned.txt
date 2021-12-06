@@ -1,7 +1,7 @@
 12/06: Continue data exploration, some great code from classmates, I'll be going over my work next 
 few days.  Onto evaluation regression models, lecture was easy to follow and hopefully I can power through exercises following.  Schedule is going to be all over the place this week due to the 
 circumstances.  Had a good chat with Ryan and I appreciate how understanding he is, goal is to stay
-ontop of all the material this week even if that is working through nights and weekend.
+ontop of all the material this week even if that is working through nights and weekend..
 
 12/03: Fantastic review day going over scaling exercises first and then reviewing over questions we 
 have had over the past few weeks.  Solid review need to refer back too.  Followed with explore 
