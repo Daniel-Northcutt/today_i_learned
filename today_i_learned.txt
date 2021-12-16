@@ -1,3 +1,9 @@
+12/16: Project and quiz earlier this week, learned a lot and huge improvement from classification.
+Onto clustering with wrangle and exploring data lessons and exercises.  A bit behind on this repo 
+but will have the break to catch up, review previous material, and work ahead.
+
+12/13: Be like a proton, always positive
+
 12/12: Today was difficult but I learned a lot exploring the database and the Codeup material. 
 I was behind due to some family obligations and pushed hard through the weekend for exercises and 
 Zillow presentation. I learned a lot today and will only get better!
