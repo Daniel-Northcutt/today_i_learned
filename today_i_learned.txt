@@ -1,3 +1,13 @@
+01/05: Half day tearing through the group project getting our wrangle and clustering done along with 
+just a better understanding of the data moving forward.  Imported Google maps APIs to overlay the
+clustered data was pretty neat
+
+01/04: Exercise review followed with using clustering lesson with great material in the class
+resources.  Group project released at the end of the day and idea of what is needed going forward
+
+01/03: First in class session for me and modeling lesson picking back up in clustering.  K-means,
+elbow method, inertia, etc
+
 12/16: Project and quiz earlier this week, learned a lot and huge improvement from classification.
 Onto clustering with wrangle and exploring data lessons and exercises.  A bit behind on this repo 
 but will have the break to catch up, review previous material, and work ahead.
