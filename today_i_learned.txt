@@ -1,3 +1,8 @@
+01/10: Few days of work on our clustering project, challenging on multiple fronts but learned a great
+deal which I will only carry forward with.  Admit a bit exhausted but moving forward with Time Series
+great lecture from Adam followed by API acquire lecture from Ryan.  This topic is really interesting
+and looking forward to the next lectures.
+
 01/05: Half day tearing through the group project getting our wrangle and clustering done along with 
 just a better understanding of the data moving forward.  Imported Google maps APIs to overlay the
 clustered data was pretty neat
