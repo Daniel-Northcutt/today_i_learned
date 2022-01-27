@@ -1,3 +1,6 @@
+01/27: Slow to update this, primarily working on individual project and wrapping up anomaly detection
+after time series analysis.  Really great material, today was specifically on DBScan and release of the mini project
+
 01/10: Few days of work on our clustering project, challenging on multiple fronts but learned a great
 deal which I will only carry forward with.  Admit a bit exhausted but moving forward with Time Series
 great lecture from Adam followed by API acquire lecture from Ryan.  This topic is really interesting
